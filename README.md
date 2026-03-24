@@ -6,6 +6,8 @@ Here you can find all the final scripts that MJ wrote during P11 at InHolland un
 
 Pipeteer oefening: carries out an adapted version of the pipetting excercice of P3 LSC
 
+Pipetting volumes test: fills a 96 wells plate with different amounts of liquid, to test the pipetting volume.
+
 Simulate: script used to simulate the python scripts
 
 Tutorial: carries out a serial dilution. The opentrons API tutorial was followed
