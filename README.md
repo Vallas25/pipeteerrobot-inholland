@@ -2,10 +2,12 @@
 Here you can find all the final scripts that MJ wrote during P11 at InHolland university of applied sciences for the OT-2
 
 
-The first script is an serial dilution tutorial
+96 wells dilution: dilutes samples from a 96 wells plate to an standard OD
 
-The scond script is an adaped version of the pipetting exercice of P3
+Pipeteer oefening: carries out an adapted version of the pipetting excercice of P3 LSC
 
-The third script fills a 96 wells plate with different concentrations of stock solution
+Simulate: script used to simulate the python scripts
 
-The forth script dilutes each sample of a 96 wells plate to the same OD on a new 96 wells plat
+Tutorial: carries out a serial dilution. The opentrons API tutorial was followed
+
+random dilution: dilutes a stock solution to a random concentration on a 96 wells plate. Used for the 96 wells dilution protocol
